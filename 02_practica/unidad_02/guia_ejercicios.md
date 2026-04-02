@@ -23,6 +23,8 @@ Nota: no olvides que sólo contamos con las cuatro operaciones básicas.
 
 **Ejercicio 03:**
 
+- [Ver resolución](./ejercicio_03.py)
+
 ```text
 Hacer un programa que permita ingresar el año actual y el año de la fecha de
 nacimiento de una persona y luego calcule y emita por pantalla su edad.
