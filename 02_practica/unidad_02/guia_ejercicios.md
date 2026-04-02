@@ -2,6 +2,8 @@
 
 **Ejercicio 01:**
 
+- [Ver resolución](./ejercicio_01.py)
+
 ```text
 Hacer un programa para solicitar por teclado dos numeros y luego mostrar la suma
 de los mismos.
