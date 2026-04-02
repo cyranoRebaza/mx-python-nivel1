@@ -11,6 +11,8 @@ de los mismos.
 
 **Ejercicio 02:**
 
+- [Ver resolución](./ejercicio_02.py)
+
 ```text
 Hacer un programa para solicitar por teclado un número y luego devolver su valor
 elevado al cubo.
