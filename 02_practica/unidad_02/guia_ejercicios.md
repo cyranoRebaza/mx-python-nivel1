@@ -12,6 +12,7 @@ de los mismos.
 **Ejercicio 02:**
 
 - [Ver resolución](./ejercicio_02.py)
+- [Ver resolución v2](./ejercicio_02_v2.py)
 
 ```text
 Hacer un programa para solicitar por teclado un número y luego devolver su valor
