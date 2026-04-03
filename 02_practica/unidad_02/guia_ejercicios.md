@@ -35,6 +35,8 @@ calcular.
 
 **Ejercicio 04:**
 
+- [Ver resolución](./ejercicio_04.py)
+
 ```text
 Hacer un programa que permita ingresar los kilómetros existentes entre dos
 ciudades y la velocidad promedio de un vehículo. Calcular y emitir por pantalla
