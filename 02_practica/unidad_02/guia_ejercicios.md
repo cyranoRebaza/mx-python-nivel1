@@ -46,6 +46,8 @@ los datos ingresados.
 
 **Ejercicio 05:**
 
+- [Ver resolución](./ejercicio_05.py)
+
 ```text
 Una casa de computación paga a sus empleados un sueldo fijo de ARS15000 más una
 comisión del 5% sobre el total facturado por cada empleado. Hacer un programa
