@@ -77,6 +77,8 @@ descubiertos.
 
 **Ejercicio 08:**
 
+- [Ver resolución](./ejercicio_08.py)
+
 ```text
 Una importante cadena de delivery cuenta con una promoción por tiempo
 limitado en la que otorga un 15% de descuento sobre el total del valor de la
