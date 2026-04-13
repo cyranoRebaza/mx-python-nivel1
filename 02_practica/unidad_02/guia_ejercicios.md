@@ -57,6 +57,8 @@ pantalla el sueldo total a cobrar por el mismo.
 
 **Ejercicio 06:**
 
+- [Ver resolución](./ejercicio_06.py)
+
 ```text
 Hacer un programa para ingresar por teclado las tres notas de exámenes de un
 alumno y luego calcule y emita por pantalla el promedio final.
