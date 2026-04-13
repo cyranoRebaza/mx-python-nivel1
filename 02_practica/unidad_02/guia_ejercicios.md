@@ -99,6 +99,8 @@ porcentajes correspondientes.
 
 **Ejercicio 10:**
 
+- [Ver resolución](./ejercicio_10.py)
+
 ```text
 Hacer un programa que permita ingresar por teclado dos números y que luego
 muestre por pantalla la suma, la resta, la multiplicación y la división de
