@@ -88,6 +88,8 @@ calcule y emita por pantalla el total a cobrar con el descuento aplicado.
 
 **Ejercicio 09:**
 
+- [Ver resolución](./ejercicio_09.py)
+
 ```text
 Una universidad desea conocer los porcentajes de mujeres y hombres en las
 carreras de ciencias exactas. Se solicita un programa para cargar la cantidad de
