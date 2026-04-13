@@ -66,6 +66,8 @@ alumno y luego calcule y emita por pantalla el promedio final.
 
 **Ejercicio 07:**
 
+- [Ver resolución](./ejercicio_07.py)
+
 ```text
 Hacer un programa para ingresar por teclado los metros cuadrados totales de un
 predio y los metros cuadrados cubiertos; luego calcular y mostrar por pantalla
