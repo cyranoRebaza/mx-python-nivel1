@@ -21,7 +21,7 @@ pantalla el menor de ellos.
 **Ejercicio 03:**
 
 - [Ver resolución](./ejercicio_03.py)
-- [Ver resolución](./ejercicio_03_v2.py)
+- [Ver resolución v2](./ejercicio_03_v2.py)
 - [Ver resolución v3](./ejercicio_03_v3.py)
 
 ```text
