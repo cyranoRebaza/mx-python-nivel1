@@ -21,6 +21,7 @@ pantalla el menor de ellos.
 **Ejercicio 03:**
 
 - [Ver resolución](./ejercicio_03.py)
+- [Ver resolución](./ejercicio_03_v2.py)
 
 ```text
 Hacer un programa para ingresar dos números y que luego emita por pantalla el
