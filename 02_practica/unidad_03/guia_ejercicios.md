@@ -34,6 +34,7 @@ Nota: los números pueden ser iguales.
 **Ejercicio 04:**
 
 - [Ver resolución](./ejercicio_04.py)
+- [Ver resolución v2](./ejercicio_04_v2.py)
 
 ```text
 Hacer un programa para ingresar un número y luego se emita un cartel por
