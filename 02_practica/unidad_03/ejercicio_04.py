@@ -6,7 +6,7 @@ pantalla “Positivo” si el número es mayor a cero, “Negativo” si el núm
 menor a cero o “Cero” si el número es igual a cero.
 
 ------------------------------------
-criterio: buscamos directamente el mayor y porque son solo dos numeros
+criterio: usamos if secuencial
 
 """
 
