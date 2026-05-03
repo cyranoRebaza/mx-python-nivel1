@@ -35,6 +35,7 @@ Nota: los números pueden ser iguales.
 
 - [Ver resolución](./ejercicio_04.py)
 - [Ver resolución v2](./ejercicio_04_v2.py)
+- [Ver resolución v3](./ejercicio_04_v3.py)
 
 ```text
 Hacer un programa para ingresar un número y luego se emita un cartel por
