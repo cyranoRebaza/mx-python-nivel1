@@ -57,6 +57,7 @@ Nota: leé sobre el operador “Resto”.
 **Ejercicio 06:**
 
 - [Ver resolución](./ejercicio_06.py)
+- [Ver resolución v2](./ejercicio_06_v2.py)
 
 ```text
 Una casa de video juegos otorga un descuento dependiendo del importe de la
