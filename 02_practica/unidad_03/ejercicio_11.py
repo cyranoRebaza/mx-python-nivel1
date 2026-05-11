@@ -28,4 +28,4 @@ if numero_4 < 100:
     menores_100 = menores_100 + 1
     
 # Mostrar cuantos son menores a 100
-print(f"La cantidad de numeros menores a 100 son: {menores_100}")
+print(f"La cantidad de numeros menores a 100 es: {menores_100}")
