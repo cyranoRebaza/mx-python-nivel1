@@ -278,6 +278,6 @@ Nota: resolver el ejercicio utilizando estructuras condicionales e intercambios
 - [Ver resolución](./ejercicio_24.py)
 
 ```text
-Hacer un programa para ingresar tres números y emitir un cartel aclaratorio si
-la suma de los dos primeros es mayor que el producto del segundo con el tercero.
+Hacer un programa que solicite cuatro numeros y emitir un cartel aclaratorio si
+todos son iguales entre si, caso contrario, no emitir nada.
 ```
