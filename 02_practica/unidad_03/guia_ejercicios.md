@@ -263,6 +263,7 @@ la suma de los dos primeros es mayor al producto del segundo con el tercero.
 
 - [Ver resolución](./ejercicio_23.py)
 - [Ver resolución v2](./ejercicio_23_v2.py)
+- [Ver resolución v3](./ejercicio_23_v3.py)
 
 ```text
 Hacer un programa para ingresar tres números y mostrarlos ordenados de menor a
