@@ -28,6 +28,7 @@ Hacer un programa que solicite 20 edades y luego calcule el promedio de edad de 
 **Ejercicio 04:**
 
 - [Ver resolución](./ejercicio_04.py)
+- [Ver resolución v2](./ejercicio_04_v2.py)
 
 ```text
 Hacer un programa que solicite UN número y luego calcule y emita un cartel aclaratorio si el mismo es primo o no es primo.  
