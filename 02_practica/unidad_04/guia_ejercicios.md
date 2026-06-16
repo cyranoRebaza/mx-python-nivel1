@@ -101,6 +101,8 @@ Al finalizar, informar:
 **Ejercicio 10:**
 
 - [Ver resolución](./ejercicio_10.py)
+- [Ver resolución v2](./ejercicio_10_v2.py)
+- [Ver resolución v3](./ejercicio_10_v3.py)
 
 ```text
 Hacer un programa que solicite números enteros.
