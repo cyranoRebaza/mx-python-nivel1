@@ -117,6 +117,7 @@ Al finalizar, informar:
 **Ejercicio 11:**
 
 - [Ver resolución](./ejercicio_11.py)
+- [Ver resolución v2](./ejercicio_11_v2.py)
 
 ```text
 Hacer un programa que solicite números enteros.
